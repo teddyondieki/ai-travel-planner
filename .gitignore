@@ -2,3 +2,4 @@ venv/
 .env
 logs/
 AI_TRAVEL_AGENT.egg-info/
+.idea/
